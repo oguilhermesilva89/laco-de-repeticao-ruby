@@ -8,6 +8,7 @@ array.each { |elemento| puts "=> #{elemento} <=" } # Escrevendo o bloco em 1 lin
 
 array2 = [3, 6, 9, 12]
 
-array.each do |elemento2| # Escrevendo o bloco em diversas linhas usamos o do
+array2.each do |elemento2| # Escrevendo o bloco em diversas linhas usamos o do
     puts elemento2
 end
+
